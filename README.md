@@ -1,11 +1,11 @@
-# 🌐 DecodeLabs — Project 1: Static Webpage Design
+# DecodeLabs — Project 1: Static Webpage Design
 
 > **Frontend Development Industrial Training Kit — Batch 2026**  
 > Powered by [DecodeLabs](https://www.decodelabs.tech)
 
 ---
 
-## 📌 About The Project
+## About The Project
 
 This project is the **first milestone** of the DecodeLabs Frontend Development training program. It focuses on the structural foundation of web development: building a clean, semantic, and visually consistent **static webpage** using only HTML and CSS.
 
@@ -13,7 +13,7 @@ The goal is not visual complexity — it is **Semantic Integrity**: mastering th
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Design and build a fully static, multi-section webpage for **DecodeLabs** — a coding education platform — that demonstrates:
 
@@ -24,7 +24,7 @@ Design and build a fully static, multi-section webpage for **DecodeLabs** — a 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 project-1/
@@ -38,7 +38,7 @@ project-1/
 
 ---
 
-## 🧱 Page Architecture
+## Page Architecture
 
 The page is built following a logical **Information Architecture (IA)** with clear landmark regions:
 
@@ -52,7 +52,7 @@ The page is built following a logical **Information Architecture (IA)** with cle
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Semantic HTML5** — uses `<header>`, `<nav>`, `<section>`, `<main>`, `<footer>` for machine-readable structure
 - **CSS Grid layout** — 4-column, 2-row grid with intentional card spanning (cards n1 and n6 span 2 columns)
@@ -64,7 +64,7 @@ The page is built following a logical **Information Architecture (IA)** with cle
 
 ---
 
-## 🃏 Content Cards
+## Content Cards
 
 The main grid features 6 learning topic cards:
 
@@ -77,7 +77,7 @@ The main grid features 6 learning topic cards:
 
 ---
 
-## 🎨 Design System
+## Design System
 
 | Token | Value |
 |---|---|
@@ -92,7 +92,7 @@ The main grid features 6 learning topic cards:
 
 ---
 
-## ✅ Requirements Checklist (DecodeLabs Flight Checklist)
+## Requirements Checklist (DecodeLabs Flight Checklist)
 
 - [x] **IA** — Logical sitemap defined before coding
 - [x] **HTML** — Semantic tags (`<header>`, `<main>`, `<footer>`), single `<h1>`
@@ -103,7 +103,7 @@ The main grid features 6 learning topic cards:
 
 ---
 
-## 🚀 How To Run
+## How To Run
 
 No build tools or dependencies required. Simply open the project in your browser:
 
@@ -116,11 +116,11 @@ open index.html
 # or just double-click index.html in your file explorer
 ```
 
-> ⚠️ Make sure the `assets/` folder is present alongside `index.html` for images and icons to load correctly.
+>  Make sure the `assets/` folder is present alongside `index.html` for images and icons to load correctly.
 
 ---
 
-## 📚 Concepts Practiced
+## Concepts Practiced
 
 | Concept | Application in this project |
 |---|---|
@@ -135,13 +135,13 @@ open index.html
 
 ---
 
-## 🏅 Badge
+## Badge
 
 > Completing this project earns the **Project 1: Static Webpage Design** badge from DecodeLabs and unlocks access to the next training projects.
 
 ---
 
-## 👤 Author
+## Author
 
 Built as part of the **DecodeLabs Frontend Development Industrial Training Program — Batch 2026**.
 
